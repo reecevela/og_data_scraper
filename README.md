@@ -2,11 +2,11 @@
 
 Extracts information from the websites that a link points to - Title, Description, and Image if applicable.
 
-# Use cases
+## Use cases
 
 Messaging apps, blogs, news, articles, etc.
 
-# Setup
+## Setup
 
 Clone this repo
 Run pip install -r requirements.txt
