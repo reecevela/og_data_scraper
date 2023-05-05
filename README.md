@@ -8,6 +8,6 @@ Messaging apps, blogs, news, articles, etc.
 
 ## Setup
 
-Clone this repo
-Run pip install -r requirements.txt
-Import the get_og_data function and use it however you'd like!
+- Clone this repo
+- Run pip install -r requirements.txt
+- Import the get_og_data function and use it however you'd like!
